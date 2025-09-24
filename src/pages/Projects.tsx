@@ -10,10 +10,10 @@ import { Link } from 'react-router-dom';
 
 
 // Import project images
-import airlineImage from '@/assets/airline-project.jpg';
-import agriculturalImage from '@/assets/agricultural-project.jpg';
-import scholarshipImage from '@/assets/scholarship-project.jpg';
-import roxilerstoreImage from '@/assets/roxiler-store-rating.jpg';
+import airlineImage from '../assets/airline-project.jpg';
+import agriculturalImage from '../assets/agricultural-project.jpg';
+import scholarshipImage from '../assets/scholarship-project.jpg';
+import roxilerstoreImage from '../assets/roxiler-store-rating.jpg';
 import encryptDecryptImage from '../assets/Encypt-Decrypt.jpg';
 import keyloggerImage from '../assets/keylogger.jpg';
 
@@ -160,7 +160,7 @@ const Projects = () => {
       ],
       challenges: 'Creating a safe and controlled environment for demonstrating DDoS without causing harm.',
       outcome: 'Helped users understand DDoS vulnerabilities and the importance of network security.',
-      githubUrl: 'https://github.com/pavan3001/pavan3001-Distributed-Denial-of-Service-DDoS',
+      githubUrl: 'https://github.com/pavan3001/Distributed-Denial-of-Service-DDoS',
       liveUrl: '#',
     }
   ];
