@@ -1,64 +1,56 @@
-
-# Portfolio - Pavan Kumar Kolipakula
-
-This is a professional portfolio website for Pavan Kumar Kolipakula, showcasing projects, skills, and contact information.
-
-## 🚀 Features
-- Modern, responsive design with dark/light mode
-- Project showcase with images, tech stack, and details
-- Contact form with toast notifications
-- Downloadable resume
-- Social and quick action links
-- Animated UI with Framer Motion
-
-## 🛠️ Technologies Used
-- React.js (Vite)
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- Lucide React Icons
-- Custom UI Components
-
-## 📁 Project Structure
-```
-portfolio/
-  src/
-    assets/           # Project images and static assets
-    components/       # Reusable UI components
-    hooks/            # Custom React hooks
-    lib/              # Utility functions
-    pages/            # Main page components (Home, Projects, Contact, etc.)
-  public/
-    resume.pdf        # Downloadable resume
-  package.json
-  tailwind.config.ts
-  vite.config.ts
-  ...
-```
-
-## 📦 Getting Started
-1. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-2. **Run the development server:**
-   ```bash
-   npm run dev
-   ```
-3. **Build for production:**
-   ```bash
-   npm run build
-   ```
-
-## 📝 Customization
-- Update project details in `src/pages/Projects.tsx`.
-- Change contact/social info in `src/pages/Contact.tsx`.
-- Replace images in `src/assets/` as needed.
-- Update resume in `public/resume.pdf`.
-
-## 📬 Contact
-For collaboration or inquiries, use the contact form on the site or email: 2200031097cseh@gmail.com
+<h1 align="center">Hi 👋, I'm KOLIPAKULA PAVAN KUMAR</h1>
+<h3 align="center">Aspiring Full Stack Software Engineer | Problem Solver | Passionate about Clean Code & Innovation</h3>
 
 ---
 
-> **Note:** This project is for personal/professional portfolio use. For any issues or suggestions, please open an issue or contact the owner.
+### 👨‍💻 About Me
+- 🔭 I’m currently learning **Advanced Web Development, AI/ML, and Cloud Computing**.
+- 🌱 I love **building scalable, efficient, and innovative software solutions**.
+- 💬 Ask me about **Python, C, Web Development, or Data Science**.
+- ⚡ Fun Fact: I enjoy **experimenting with new tech stacks and contributing to open-source projects**.
+
+---
+
+### 🛠️ Skills
+**Languages & Frameworks:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+**Tools & Platforms:**  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+---
+
+### 🔥 GitHub Stats
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📂 Projects
+- [Weather App](https://github.com/YOUR_USERNAME/weather-app) – Dynamic 5-day forecast web app.  
+- [Student Management System](https://github.com/YOUR_USERNAME/student-management) – Full stack CRUD application.  
+- [AI/ML Model Demos](https://github.com/YOUR_USERNAME/ai-ml-models) – Projects demonstrating machine learning models.  
+
+---
+
+### 📫 Contact Me
+<p align="center">
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/YOUR_PROFILE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+*"Code is like humor. When you have to explain it, it’s bad."* 😄
