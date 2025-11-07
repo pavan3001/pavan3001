@@ -113,6 +113,9 @@ Live traffic analysis, risk scoring, automated blocking, and a responsive securi
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C8FF&width=680&lines=Full+Stack+Developer;Cloud+%26+Security+Enthusiast;AI+%26+Network+Security" alt="Typing SVG" />
+</p>
 
 ## ✨ Animated Highlights (paste these into your README to keep the motion)
 - **Typing banner (animated text):**
