@@ -10,10 +10,11 @@
 </h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C8FF&width=680&lines=Full+Stack+Developer;Cloud+%26+Security+Enthusiast;AI+%26+Network+Security">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C8FF&width=680&lines=Full+Stack+Developer;Cloud+%26+Security+Enthusiast;AI+%26+Network+Security" alt="Typing SVG"/>
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C8FF&width=680&lines=Full+Stack+Web+Application+Developer;Cybersecurity+Enthusiast;AI+%26+Network+Security">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C8FF&width=680&lines=Full+Stack+Web+Application+Developer;Cybersecurity+Enthusiast;AI+%26+Network+Security" alt="Typing SVG"/>
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/pavan3001"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@pavan3001-181717?style=for-the-badge&logo=github"></a>
