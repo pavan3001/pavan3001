@@ -115,5 +115,8 @@ Live traffic analysis, risk scoring, automated blocking, and a responsive securi
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C8FF&width=680&lines=Full+Stack+Developer;Cloud+%26+Security+Enthusiast;AI+%26+Network+Security" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C8FF&width=680&lines=Full+Stack+Web+Application+Developer;Cybersecurity+Enthusiast;AI+%26+Network+Security">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C8FF&width=680&lines=Full+Stack+Web+Application+Developer;Cybersecurity+Enthusiast;AI+%26+Network+Security" alt="Typing SVG"/>
+  </a>
 </p>
+
